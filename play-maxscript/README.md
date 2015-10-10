@@ -20,3 +20,5 @@ https://github.com/sebjf/dazmaxbridge
 https://github.com/LeadShuriken/birdygit.git
 
 [3ds max commandline switch](http://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2015/ENU/3DSMax/files/GUID-BCB04DEC-7967-4091-B980-638CFDFE47EC-htm.html)
+
+[maxscript cheat sheet](http://www.thecgschool.com/downloads/3DATS_MAXScript_Cheat_Sheet.pdf)

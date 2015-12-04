@@ -24,8 +24,12 @@ https://github.com/sebjf/dazmaxbridge
 https://github.com/LeadShuriken/birdygit.git
 
 https://github.com/Zyphon/myTools/blob/master/objectExporter.ms
+
 https://github.com/timcoolmode/scripts/blob/master/Tools/MAXScript/Madrid/Vray%20Tools/Network%20Share/shareFolders.ms
 https://github.com/wiln/sea3d/blob/master/SEA3D%201.6.0.2/SEA3D%20Exporter/Setup/Setup.ms
+
+https://github.com/timcoolmode/scripts/blob/master/Tools/MAXScript/Madrid/Vray%20Tools/RT%20DR%20Settings/RTdistributedrendering.ms
+
 https://github.com/klaasnienhuis/sketchfab/blob/master/Scriptfiles/sketchfab_multithread.ms
 
 [3ds max commandline switch](http://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2015/ENU/3DSMax/files/GUID-BCB04DEC-7967-4091-B980-638CFDFE47EC-htm.html)
